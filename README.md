@@ -1,0 +1,1 @@
+docker-compose --compatibility up --build --force-recreate -d
